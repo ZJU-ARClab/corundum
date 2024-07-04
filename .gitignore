@@ -22,3 +22,6 @@ modules.order
 *.str
 
 tags
+
+# Build
+fpga/mqnic/Alveo/fpga_100g/*/rev/*
